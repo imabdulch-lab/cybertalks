@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/physical-topology/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/physical-topology/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 Physical topology defines the physical layout of a network. It shows how various devices are connected to each other in a network, either through cables or wireless connections.

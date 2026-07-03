@@ -1,10 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/python/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/python/","dg-note-properties":{}}
 ---
-
-dg-publish:  true
-
-
 
 # 1. Printing Something 
 
